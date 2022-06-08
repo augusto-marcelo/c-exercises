@@ -25,7 +25,7 @@ Expected Output:
 
 
 
-void print_chars(c, n) {
+void print_chars(char c, int n) {
 
     for(int i = 0; i < n; i++) {
         printf("%c", c);
